@@ -1,3 +1,4 @@
 first line in file1
 second line in file1
 third line in test branch
+fourth line in master`
